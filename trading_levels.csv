@@ -1,5 +1,9 @@
 Level,Price
 SPY Support,580.25
 SPY Resistance,585.75
-QQQ Support,495.50
+QQQ Support,495.5
 QQQ Resistance,501.25
+Overnight Dynamic HP,6662.5
+Overnight Dynamic LP,6645.25
+DD Band ES,6650.0
+DD Band NQ,21125.75
